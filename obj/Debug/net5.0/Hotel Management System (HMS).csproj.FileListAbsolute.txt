@@ -1,0 +1,32 @@
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).exe
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).deps.json
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).runtimeconfig.json
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\ref\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\bin\Debug\net5.0\Hotel Management System (HMS).pdb
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\ref\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).pdb
+C:\Users\ADESANYA\Desktop\Hotel Management System (HMS)\obj\Debug\net5.0\Hotel Management System (HMS).genruntimeconfig.cache
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).exe
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).deps.json
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).runtimeconfig.json
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).runtimeconfig.dev.json
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\ref\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\bin\Debug\net5.0\Hotel Management System (HMS).pdb
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).AssemblyInfo.cs
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\ref\Hotel Management System (HMS).dll
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).pdb
+C:\Users\ADESANYA\Downloads\HMS-FILE\HMS-FILE\obj\Debug\net5.0\Hotel Management System (HMS).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hotel Management System (HMS)/1.0.0": {
+        "runtime": {
+          "Hotel Management System (HMS).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hotel Management System (HMS)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
